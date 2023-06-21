@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "SparseMSE"]
 	path = SparseMSE
-	url = https://github.com/cran/SparseMSE
+	url = https://github.com/laxchan/sparsemse
 	shallow = true
 	registered = true
